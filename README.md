@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Nord Banner](assets/nord-banner.png)
+<a href="https://imgbb.io/en/YvyO21IrRA6eYWw"><img src="https://imgbb.io/ib/CP4vBdpdNhcIKtP_1738772206.png" alt="Nordic SLM Banner"/></a>
 
 > *"Because your Linux deserves to be as cool as Nordic winter"*
 
